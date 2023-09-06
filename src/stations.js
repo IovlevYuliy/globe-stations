@@ -110,7 +110,7 @@ const stations = [
         "HasSignedGPDRContract": false,
         "Latitude": 78.91666666,
         "Longitude": 11.93333333
-//     },
+    },
 //     {
 //         "StationId": 15,
 //         "StationName": "Czech Arctic Research Station of Josef Svoboda",
